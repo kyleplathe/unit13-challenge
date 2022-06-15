@@ -5,7 +5,7 @@
 
 [AWS Lambda .py file](https://github.com/kyleplathe/unit13-challenge/blob/main/RoboAdvisor/AWS_lambda.py)
 
-[Screen Recording of ChatBot](https://github.com/kyleplathe/unit13-challenge/blob/main/RoboAdvisor/images/RoboAdvisor_video.mov)
+[Screen Recording of ChatBot](https://github.com/kyleplathe/unit13-challenge/blob/main/images/RoboAdvisor_video.mov)
 
 ## Sample Utterances
 ![Utterances](images/Sample_utterances.png)
